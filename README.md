@@ -31,9 +31,6 @@ and outlet trends over time — turning raw retail data into meaningful business
 - **Power Query** – Data Cleaning and Transformation  
 - **DAX (Data Analysis Expressions)** – Measures and Calculated Columns  
 - **Excel / CSV** – Source Data  
-- **Canva / Figma (Optional)** – Dashboard layout planning
 
 ---
-
-## 📂 Project Structure
 
